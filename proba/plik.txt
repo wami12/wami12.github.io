@@ -6,3 +6,5 @@ wpisuję nową linijkę
 
 kolejna zmiana i nie wiem czemu on coś pokręcił z plikami, ale dojdę o co biega
 zmieniam na serwerze
+
+Zmieniam lokalnie
