@@ -8,3 +8,5 @@ kolejna zmiana i nie wiem czemu on coś pokręcił z plikami, ale dojdę o co bi
 zmieniam na serwerze
 
 Zmieniam lokalnie
+
+i znowu zmieniam
